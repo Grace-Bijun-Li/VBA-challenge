@@ -10,6 +10,9 @@ In this analysis, please refer to the following *two* files:
 
 ## Files to read
 
+[Stock Data File](https://github.com/Grace-Bijun-Li/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm)
+- This macro-enabled Excel file consists the **orginal** data and VBA analysis of the Wall Street stock data. In case this file is too big, please refer to the next two files for solution screenshots and the VBA script.
+
 [Solutions](Stock_Analysis_Solution.md)
 - This file consists the solutions of the VBA analysis from 2014 to 2016.
 
