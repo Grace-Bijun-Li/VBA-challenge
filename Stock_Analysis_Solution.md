@@ -11,10 +11,10 @@ In each year's screenshot, columns **A** to **G** are the source data. Columns *
 Columns **O** to **Q** are the advanced analysis to summarize the changes based on the first analysis. In here, VBA codes are used to identify the **greatest % increase**, **greatest % decrease** and **greatest total volume** of each year.
 
 ## VBA Analysis Solution - 2014
-![2014 Solution](VBA_Stock_Analysis_2014.png)
+![2014 Solution](https://github.com/Grace-Bijun-Li/VBA-challenge/blob/main/VBA_Stock_Analysis_2014.PNG)
 
 ## VBA Analysis Solution - 2015
-![2015 Solution](VBA_Stock_Analysis_2015.png)
+![2015 Solution](VBA-challenge/VBA_Stock_Analysis_2015.PNG)
 
 ## VBA Analysis Solution - 2016
-![2016 Solution](VBA_Stock_Analysis_2016.png)
+![2016 Solution](VBA-challenge/VBA_Stock_Analysis_2016.PNG)
