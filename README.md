@@ -6,7 +6,7 @@ This is an analysis of real Wall Street stock market data using VBA. There are p
 
 ## Instruction
 
-In this analysis, please refer to the following *two* files:
+In this analysis, please refer to the following *three* files:
 
 ## Files to read
 
